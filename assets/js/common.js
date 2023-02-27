@@ -1,5 +1,5 @@
 /**
-*	Luique - Personal Portfolio HTML Template
+*	Ashwin's Portfolio
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
